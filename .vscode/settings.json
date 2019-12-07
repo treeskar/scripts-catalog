@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "server/env/bin/python3",
+    "python.venvFolders": [
+        "server/env"
+    ]
+}
